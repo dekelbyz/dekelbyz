@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dekelbyz
+- I am a backend develoepr ! :)
 - Those are my projects. 
-  I hope you will like it!
-  Please feel free to comment and share 
-  your thoughts.
+- I hope you'll like it!
+- Please feel free to make comments or improvment suggestions. 
 
   Email: bayazi455@gmail.com
 
