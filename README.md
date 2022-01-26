@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dekelbyz
+-  Hi, I’m @dekelbyz 👋
 - 
   Email: bayazi455@gmail.com
 
