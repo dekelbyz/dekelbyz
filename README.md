@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dekelbyz
-- I am a backend develoepr ! :)
 - 
   Email: bayazi455@gmail.com
 
